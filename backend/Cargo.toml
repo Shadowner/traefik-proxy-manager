@@ -1,0 +1,11 @@
+[package]
+name = "traefik-proxy-manager-backend"
+version = "0.1.0"
+edition = "2021"
+authors = ["Oulieu Lucas"]
+homepage = "https://github.com/Shadowner/traefik-proxy-manager"
+description = "The backend proxy of the Traefik Proxy Manager system"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
